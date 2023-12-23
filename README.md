@@ -1,5 +1,6 @@
 ### Hi, welcome to my Github 👋
 - 💻 I’m currently working as a software engineer at CouBon, a tech start-up founded by students at University of Toronto, focusing on developing the mobile application
+To see the mobile application, please follow this link and download the app: https://apps.apple.com/us/app/coubon/id6446301424
 - 🛠 I'm proficient in Python, Java, Dart, Flutter and Svelt
 - 🌱 I’m currently learning Web Development
 - 🤝 I’m looking to collaborate on any coding projects that inspire me
