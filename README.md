@@ -1,5 +1,5 @@
 ### Hi, welcome to my Github 👋
-- 💻 My most recent position is working as a software engineer at CouBon - a tech start-up founded by students at the University of Toronto - focusing on developing a mobile application that helps local restaurants attract more customers through digital coupons and discounts
+- 💻 My most recent position is a software engineer at CouBon - a tech start-up founded by students at the University of Toronto - focusing on developing a mobile application that helps local restaurants attract more customers through digital discounts
   - To see the product, please download the app from this [link](https://apps.apple.com/us/app/coubon/id6446301424)
 - 🛠 I'm proficient in Python, Java, Dart, Flutter, and Svelte
 - 🌱 I’m currently learning Web Development
