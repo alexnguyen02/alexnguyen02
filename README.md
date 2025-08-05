@@ -3,7 +3,7 @@
 - 📱 Before BYTE, I worked as a Software Engineer at CouBon - a tech start-up founded by students at the University of Toronto (St. George) - developing and maintaining a mobile application that helps local restaurants increase traffic during off-peak hours by offering digital coupons to potential customers. 
   - To see the product, please download the app from this [link](https://apps.apple.com/us/app/coubon/id6446301424)
 - 🛠 I'm proficient in Python, Java, HTML, CSS, JavaScript, Dart, React, Flutter, and Svelte
-- 🤝 I’m looking to collaborate on any coding projects that inspire me - including fashion tech, productivity/efficiency software, and accessibility solutions.
+- 🤝 I’m open to collaborating on any coding projects that inspire me - including fashion tech, productivity/efficiency software, and accessibility solutions.
 - 📫 Connect with me via alex2.nguyen@torontomu.ca
 
 <!--
