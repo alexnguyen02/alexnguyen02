@@ -1,5 +1,5 @@
 ### Howdy, welcome to my Github 👋
-- 💻 I'm currently a Frontend Engineer at BYTE - an open-source, student-led technical lab at Toronto Metropolitan University -  designing and building user interface for AI web applications. 
+- 💻 My most recent role is Frontend Engineer at BYTE - an open-source, student-led technical lab at Toronto Metropolitan University -  designing and building user interface for AI web applications. 
 - 📱 Before BYTE, I worked as a Software Engineer at CouBon - a tech start-up founded by students at the University of Toronto (St. George) - developing and maintaining a consumer mobile app that helps local restaurants increase traffic during off-peak hours by offering digital coupons to potential customers. 
   - To see the product, please download the app from this [link](https://apps.apple.com/us/app/coubon/id6446301424)
 - 🛠 My tech stack: Python, Java, HTML, CSS, JavaScript, Dart, React, Flutter, and Svelte
